@@ -18,7 +18,7 @@ docs/
 
 .DS_Store
 zkout/
-lib/
+/lib/
 .keystore
 /img
 /index.html

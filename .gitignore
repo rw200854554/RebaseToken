@@ -12,3 +12,13 @@ docs/
 
 # Dotenv file
 .env
+
+
+
+
+.DS_Store
+zkout/
+lib/
+.keystore
+/img
+/index.html
